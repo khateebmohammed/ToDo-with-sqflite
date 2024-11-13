@@ -3,8 +3,8 @@
 
 ## Screenshot
 
+<img width="727" alt="Capture" src="https://github.com/user-attachments/assets/015eff7f-f83e-461c-ac28-101d8fd7d9d9">
 
-<img width="552" alt="note sc shot" src="https://github.com/user-attachments/assets/319c84fb-58cd-408b-9403-dd8fea94d905">
 
 
 ## Features
