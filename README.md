@@ -20,6 +20,7 @@
 ## This project is done with
 - Flutter Framework
 - Local Storage(SQLite)
+- SharedPreferences 
 
 ## Contributing
 
