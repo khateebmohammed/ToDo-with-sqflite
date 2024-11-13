@@ -1,4 +1,4 @@
-# Local ToDo
+# Local ToDo App
  Flutter Mobile App Notes
 
 ## Screenshot
